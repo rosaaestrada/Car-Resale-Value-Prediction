@@ -13,6 +13,8 @@ This project explores whether the resale value of a car can be accurately predic
 ## Kaggle Notebook
 
 ## Data Source:
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
+
 
 ## Files:
 - **Data** - Contains raw data, preprocessed data, and the location where the data was collected
