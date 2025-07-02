@@ -34,7 +34,7 @@ This project explores whether the resale value of a car can be accurately predic
 - XGBoost= 3.0.2
 
 ## Summary Statistics
-- **Rows (Observation):** , **Columns (Features):**
+- **Rows (Observation):** 301, **Columns (Features):** 9
 - **Key Numerical features:**
   - Year:
     - Range: 2003-2018
@@ -55,7 +55,8 @@ This project explores whether the resale value of a car can be accurately predic
     - Most cars had 0 previous owners
     - Max: 3  
 
-## Actual vs. Predicted Car Prices (Random Forest Model)
+## Actual vs. Predicted Selling Prices (Random Forest Model)
+<im src= "github link" alt= "Actual vs. Predicted Selling Price (Random Forest)" width= "" height= "">
 
 ##Summary of Key Insights:
 - 🔧 Present price, car age, and brand are the strongest predictors of resale value.
