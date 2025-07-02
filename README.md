@@ -10,9 +10,9 @@ This project explores whether the resale value of a car can be accurately predic
 - Do automatic cars depreciate faster than manual ones?
 - Does high mileage equal lower price?
 
-## Kaggle Notebook
+### Kaggle Notebook
 
-## Data Source:
+### Data Source:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
 
@@ -22,10 +22,10 @@ This project explores whether the resale value of a car can be accurately predic
 - **Python Code** - The full source code along with explanations as a .py file
 - **Results** - Summary Statistics, Visualizations, and Final Evaluation of the project
 
-## Built with:
+### Built with:
 - Python= 3.12.3
 
-## Tools/Libraries used:
+### Tools/Libraries used:
 - Pandas= 2.2.2
 - NumPy= 1.26.4
 - Matplotlib= 3.9.2
@@ -34,6 +34,26 @@ This project explores whether the resale value of a car can be accurately predic
 - XGBoost= 3.0.2
 
 ## Summary Statistics
+- **Rows (Observation):** , **Columns (Features):**
+- **Key Numerical features:**
+  - Year:
+    - Range: 2003-2018
+    - Median: 2014
+  - Selling Price:
+    - Range: 0.1-35
+    - Mean: 4.66
+    - Median: 3.60 
+  - Present Price:
+    - Range: 0.32-92.6
+    - Mean: 7.63
+    - Median: 6.40
+  - Kilometers Driven:
+    - Range: 500-500,000
+    - Mean: 36,947
+    - Median: 32,000 
+  - Owner Count:
+    - Most cars had 0 previous owners
+    - Max: 3  
 
 ## Actual vs. Predicted Car Prices (Random Forest Model)
 
