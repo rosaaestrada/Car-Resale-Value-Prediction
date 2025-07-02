@@ -56,7 +56,8 @@ This project explores whether the resale value of a car can be accurately predic
     - Max: 3  
 
 ## Actual vs. Predicted Selling Prices (Random Forest Model)
-<im src= "github link" alt= "Actual vs. Predicted Selling Price (Random Forest)" width= "" height= "">
+<im src= "https://github.com/rosaaestrada/Car-Resale-Value-Prediction/blob/main/Results/Visualizations/Actual%20vs.%20Predicted%20Selling%20Price%20(Random%20Forest).png?raw=true" alt= "Actual vs. Predicted Selling Price (Random Forest)" width= "" height= "">
+
 
 ##Summary of Key Insights:
 - 🔧 Present price, car age, and brand are the strongest predictors of resale value.
