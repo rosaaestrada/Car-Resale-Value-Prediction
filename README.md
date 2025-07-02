@@ -45,7 +45,7 @@ This project explores whether the resale value of a car can be accurately predic
 
 <img src= "https://github.com/rosaaestrada/Car-Resale-Value-Prediction/blob/main/Results/Visualizations/Actual%20vs.%20Predicted%20Selling%20Price%20(Random%20Forest).png?raw=true" alt= "Actual vs. Predicted Selling Price (Random Forest)" width= "" height= "">
 
-##Summary of Key Insights:
+## Summary of Key Insights:
 - 🔧 Present price, car age, and brand are the strongest predictors of resale value.
 - 📉 Automatic cars depreciate faster than manual ones, losing more value on average.
 - 🚗 High mileage has little predictive power on resale price in this dataset (correlation ≈ 0.03).
