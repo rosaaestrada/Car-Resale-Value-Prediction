@@ -11,9 +11,13 @@ This project explores whether the resale value of a car can be accurately predic
 - Does high mileage equal lower price?
 
 ### Kaggle Notebook
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/rosaaestrada/car-resale-value-prediction)
 
+[Kaggle.com - rosaaestrada/Car Resale Value Prediction](https://www.kaggle.com/code/rosaaestrada/car-resale-value-prediction)
 ### Data Source:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
+
+[Kaggle.com - Vehicle Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
 
 ## Files:
@@ -43,7 +47,7 @@ This project explores whether the resale value of a car can be accurately predic
   - **Kilometers Driven:** Range: 500-500,000; Mean: 36,947; Median: 32,000
   - **Owner Count:** Most cars had 0 previous owners; Max: 3  
 
-<img src= "https://github.com/rosaaestrada/Car-Resale-Value-Prediction/blob/main/Results/Visualizations/Actual%20vs.%20Predicted%20Selling%20Price%20(Random%20Forest).png?raw=true" alt= "Actual vs. Predicted Selling Price (Random Forest)" width= "" height= "">
+<img src= "https://github.com/rosaaestrada/Car-Resale-Value-Prediction/blob/main/Results/Images/Actual%20vs.%20Predicted%20Selling%20Price%20(Random%20Forest).png?raw=true" alt= "Actual vs. Predicted Selling Price (Random Forest)" width= "" height= "">
 
 ## Summary of Key Insights:
 - 🔧 Present price, car age, and brand are the strongest predictors of resale value.
